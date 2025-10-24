@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\src\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7124ECB-1E46-4943-ACAB-EEEC4C3D1EBE}|ConsoleApp1.csproj|c:\\src\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7124ECB-1E46-4943-ACAB-EEEC4C3D1EBE}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7124ECB-1E46-4943-ACAB-EEEC4C3D1EBE}|ConsoleApp1.csproj|c:\\src\\consoleapp1\\cocina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7124ECB-1E46-4943-ACAB-EEEC4C3D1EBE}|ConsoleApp1.csproj|solutionrelative:cocina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7124ECB-1E46-4943-ACAB-EEEC4C3D1EBE}|ConsoleApp1.csproj|c:\\src\\consoleapp1\\sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7124ECB-1E46-4943-ACAB-EEEC4C3D1EBE}|ConsoleApp1.csproj|solutionrelative:sala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7124ECB-1E46-4943-ACAB-EEEC4C3D1EBE}|ConsoleApp1.csproj|c:\\src\\consoleapp1\\cuarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7124ECB-1E46-4943-ACAB-EEEC4C3D1EBE}|ConsoleApp1.csproj|solutionrelative:cuarto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7124ECB-1E46-4943-ACAB-EEEC4C3D1EBE}|ConsoleApp1.csproj|c:\\src\\consoleapp1\\iaposento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7124ECB-1E46-4943-ACAB-EEEC4C3D1EBE}|ConsoleApp1.csproj|solutionrelative:iaposento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAposento.cs",
+              "DocumentMoniker": "C:\\src\\ConsoleApp1\\IAposento.cs",
+              "RelativeDocumentMoniker": "IAposento.cs",
+              "ToolTip": "C:\\src\\ConsoleApp1\\IAposento.cs",
+              "RelativeToolTip": "IAposento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:43:12.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cocina.cs",
+              "DocumentMoniker": "C:\\src\\ConsoleApp1\\Cocina.cs",
+              "RelativeDocumentMoniker": "Cocina.cs",
+              "ToolTip": "C:\\src\\ConsoleApp1\\Cocina.cs",
+              "RelativeToolTip": "Cocina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:39:33.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sala.cs",
+              "DocumentMoniker": "C:\\src\\ConsoleApp1\\Sala.cs",
+              "RelativeDocumentMoniker": "Sala.cs",
+              "ToolTip": "C:\\src\\ConsoleApp1\\Sala.cs",
+              "RelativeToolTip": "Sala.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:39:25.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cuarto.cs",
+              "DocumentMoniker": "C:\\src\\ConsoleApp1\\Cuarto.cs",
+              "RelativeDocumentMoniker": "Cuarto.cs",
+              "ToolTip": "C:\\src\\ConsoleApp1\\Cuarto.cs",
+              "RelativeToolTip": "Cuarto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T17:38:53.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\src\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\src\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAuwFkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-24T16:14:54.721Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
