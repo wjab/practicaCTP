@@ -8,5 +8,6 @@ namespace Inyection_dependency_example.DTOs
         public string? Description { get; set; }
         public required string Author { get; set; }
         public DateTime PublishedDate { get; set; }
+        public int FkBookShelf { get; set; }
     }
 }

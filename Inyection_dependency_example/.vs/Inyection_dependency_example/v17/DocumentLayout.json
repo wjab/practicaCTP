@@ -1,98 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\src\\jowasoft\\Inyection_dependency_example\\",
+  "WorkspaceRootPath": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\implementation\\bookstoreapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\implementation\\bookstoreapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\practicactp\\inyection_dependency_example\\inyection_dependency_example\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\dtos\\bookstoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\dtos\\bookstoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\practicactp\\inyection_dependency_example\\inyection_dependency_example\\db\\categorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\db\\categorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\controllers\\bookstorecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\interface\\ibookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\interface\\ibookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\controllers\\bookshelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\controllers\\bookshelfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\db\\bookshelfdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\db\\bookshelfdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\utils\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\utils\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\db\\bookstoredb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\db\\bookstoredb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\implementation\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\implementation\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\interface\\ibookapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\interface\\ibookapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\interface\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\interface\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\db\\bookdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\db\\bookdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\dtos\\bookshelfdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\dtos\\bookshelfdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\interface\\ibookshelfapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\interface\\ibookshelfapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\implementation\\bookshelfapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\implementation\\bookshelfapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\dtos\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\inyection_dependency_example\\inyection_dependency_example\\migrations\\20251101141754_iitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\migrations\\20251101141754_iitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\practicactp\\inyection_dependency_example\\inyection_dependency_example\\db\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\db\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -101,306 +21,48 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "DockedWidth": 181,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AutoMapperProfiles.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Utils\\AutoMapperProfiles.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\Utils\\AutoMapperProfiles.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Utils\\AutoMapperProfiles.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\Utils\\AutoMapperProfiles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T16:57:28.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Implementation\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\Implementation\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Implementation\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\Implementation\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T19:05:47.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookShelfController.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Controllers\\BookShelfController.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\Controllers\\BookShelfController.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Controllers\\BookShelfController.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\Controllers\\BookShelfController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T16:35:59.428Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Program.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\Program.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Program.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T16:29:14.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BookController.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Controllers\\BookController.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\Controllers\\BookController.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Controllers\\BookController.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\Controllers\\BookController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAgwBAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:56:19.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BookStoreAPI.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Implementation\\BookStoreAPI.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\Implementation\\BookStoreAPI.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Implementation\\BookStoreAPI.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\Implementation\\BookStoreAPI.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAcwCAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T20:17:00.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BookStoreController.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Controllers\\BookStoreController.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\Controllers\\BookStoreController.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Controllers\\BookStoreController.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\Controllers\\BookStoreController.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAQwE4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T20:34:33.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IBookStore.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Interface\\IBookStore.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\Interface\\IBookStore.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Interface\\IBookStore.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\Interface\\IBookStore.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAewAwAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T17:34:56.45Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BookStoreDTO.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\DTOs\\BookStoreDTO.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\DTOs\\BookStoreDTO.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\DTOs\\BookStoreDTO.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\DTOs\\BookStoreDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T17:29:08.594Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BookStoreDB.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\BookStoreDB.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\DB\\BookStoreDB.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\BookStoreDB.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\DB\\BookStoreDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T17:17:14.7Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BookShelfDB.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\BookShelfDB.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\DB\\BookShelfDB.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\BookShelfDB.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\DB\\BookShelfDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:58:42.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IPerson.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Interface\\IPerson.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\Interface\\IPerson.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Interface\\IPerson.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\Interface\\IPerson.cs",
+              "Title": "CategoryDB.cs",
+              "DocumentMoniker": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\CategoryDB.cs",
+              "RelativeDocumentMoniker": "Inyection_dependency_example\\DB\\CategoryDB.cs",
+              "ToolTip": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\CategoryDB.cs",
+              "RelativeToolTip": "Inyection_dependency_example\\DB\\CategoryDB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-03T17:44:41.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-12T14:59:29.651Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IBookAPI.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Interface\\IBookAPI.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\Interface\\IBookAPI.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Interface\\IBookAPI.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\Interface\\IBookAPI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProductDB.cs",
+              "DocumentMoniker": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\ProductDB.cs",
+              "RelativeDocumentMoniker": "Inyection_dependency_example\\DB\\ProductDB.cs",
+              "ToolTip": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\ProductDB.cs",
+              "RelativeToolTip": "Inyection_dependency_example\\DB\\ProductDB.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T19:26:23.22Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T22:06:39.41Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\appsettings.json",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\appsettings.json",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\appsettings.json",
-              "RelativeToolTip": "Inyection_dependency_example\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-03T17:03:14.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PersonController.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Controllers\\PersonController.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\Controllers\\PersonController.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Controllers\\PersonController.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\Controllers\\PersonController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DTOs\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "Inyection_dependency_example\\DTOs\\ProductDTO.cs",
+              "ToolTip": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DTOs\\ProductDTO.cs",
+              "RelativeToolTip": "Inyection_dependency_example\\DTOs\\ProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T16:40:50.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BookShelfDTO.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\DTOs\\BookShelfDTO.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\DTOs\\BookShelfDTO.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\DTOs\\BookShelfDTO.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\DTOs\\BookShelfDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T16:03:30.945Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "BookDB.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\BookDB.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\DB\\BookDB.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\BookDB.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\DB\\BookDB.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-31T18:56:20.581Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IBookShelfAPI.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Interface\\IBookShelfAPI.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\Interface\\IBookShelfAPI.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Interface\\IBookShelfAPI.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\Interface\\IBookShelfAPI.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T16:04:26.867Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BookShelfAPI.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Implementation\\BookShelfAPI.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\Implementation\\BookShelfAPI.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Implementation\\BookShelfAPI.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\Implementation\\BookShelfAPI.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAhwB8AAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T16:06:05.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BookDTO.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\DTOs\\BookDTO.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\DTOs\\BookDTO.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\DTOs\\BookDTO.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\DTOs\\BookDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T18:30:32.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\appsettings.Development.json",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\appsettings.Development.json",
-              "RelativeToolTip": "Inyection_dependency_example\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-31T21:22:13.776Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "20251101141754_Iitial.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Migrations\\20251101141754_Iitial.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\Migrations\\20251101141754_Iitial.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Migrations\\20251101141754_Iitial.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\Migrations\\20251101141754_Iitial.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T14:17:55.121Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ApplicationDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\Migrations\\ApplicationDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-01T14:18:12.888Z",
+              "WhenOpened": "2025-11-11T22:01:23.299Z",
               "EditorCaption": ""
             }
           ]

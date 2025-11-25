@@ -22,6 +22,9 @@ builder.Services.AddScoped<IBookAPI, BookAPI>();
 builder.Services.AddScoped<IPerson, PersonAPI>();
 builder.Services.AddScoped<IBookShelfAPI, BookShelfAPI>();
 builder.Services.AddScoped<IBookStore, BookStoreAPI>();
+builder.Services.AddScoped<IProduct, ProductAPI>();
+builder.Services.AddScoped<ICategoryAPI, CategoryAPI>();
+
 
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
@@ -45,7 +48,8 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
-};
+}
+;
 //app.UseSwaggerUI(options => { options.SwaggerEndpoint("/openapi/v1.json", "OpenApi"); });
 //}
 

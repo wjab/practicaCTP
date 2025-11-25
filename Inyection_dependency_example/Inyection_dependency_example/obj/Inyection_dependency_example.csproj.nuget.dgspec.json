@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Inyection_dependency_example.csproj": {}
+    "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\Inyection_dependency_example.csproj": {}
   },
   "projects": {
-    "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Inyection_dependency_example.csproj": {
+    "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\Inyection_dependency_example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Inyection_dependency_example.csproj",
+        "projectUniqueName": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\Inyection_dependency_example.csproj",
         "projectName": "Inyection_dependency_example",
-        "projectPath": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\Inyection_dependency_example.csproj",
-        "packagesPath": "C:\\Users\\warguello\\.nuget\\packages\\",
-        "outputPath": "C:\\src\\jowasoft\\Inyection_dependency_example\\Inyection_dependency_example\\obj\\",
+        "projectPath": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\Inyection_dependency_example.csproj",
+        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\warguello\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

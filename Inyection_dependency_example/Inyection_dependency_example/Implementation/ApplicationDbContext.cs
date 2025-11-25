@@ -8,13 +8,19 @@ namespace Inyection_dependency_example.Implementation
     {
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base(options)
         {
-            
+
         }
 
         public DbSet<BookDB> BookDB { get; set; }
-        public DbSet<BookShelfDB> BookShelfDB { get; set; }
+
+        public DbSet<CategoryDB> CategoryDB { get; set; }
 
         public DbSet<BookStoreDB> BookStoreDB { get; set; }
+
+        public DbSet<ProductDB> ProductDB { get; set; }
+
+        public DbSet<BookShelfDB> BookShelfDB { get; set; }
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

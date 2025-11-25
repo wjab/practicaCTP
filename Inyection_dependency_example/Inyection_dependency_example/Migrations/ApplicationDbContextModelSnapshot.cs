@@ -115,6 +115,59 @@ namespace Inyection_dependency_example.Migrations
                     b.ToTable("BookStoreDB");
                 });
 
+            modelBuilder.Entity("Inyection_dependency_example.DB.CategoryDB", b =>
+                {
+                    b.Property<int>("IdCategory")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdCategory"));
+
+                    b.Property<string>("CategoryName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("IdCategory");
+
+                    b.ToTable("CategoryDB");
+                });
+
+            modelBuilder.Entity("Inyection_dependency_example.DB.ProductDB", b =>
+                {
+                    b.Property<int>("IdProduct")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("IdProduct"));
+
+                    b.Property<int?>("Amount")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("Date_of_entry")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("Description")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("FkCategory")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasMaxLength(20)
+                        .HasColumnType("nvarchar(20)");
+
+                    b.Property<decimal>("Worth")
+                        .HasPrecision(18, 2)
+                        .HasColumnType("decimal(18,2)");
+
+                    b.HasKey("IdProduct");
+
+                    b.HasIndex("FkCategory");
+
+                    b.ToTable("ProductDB");
+                });
+
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRole", b =>
                 {
                     b.Property<string>("Id")
@@ -322,6 +375,17 @@ namespace Inyection_dependency_example.Migrations
                         .IsRequired();
 
                     b.Navigation("BookShelf");
+                });
+
+            modelBuilder.Entity("Inyection_dependency_example.DB.ProductDB", b =>
+                {
+                    b.HasOne("Inyection_dependency_example.DB.CategoryDB", "Category")
+                        .WithMany()
+                        .HasForeignKey("FkCategory")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Category");
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
