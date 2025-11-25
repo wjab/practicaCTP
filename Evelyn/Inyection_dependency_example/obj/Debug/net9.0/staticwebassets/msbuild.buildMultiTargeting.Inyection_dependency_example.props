@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Inyection_dependency_example.props" />
+</Project>
