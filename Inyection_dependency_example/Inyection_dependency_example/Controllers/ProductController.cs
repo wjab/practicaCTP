@@ -18,6 +18,8 @@ namespace Inyection_dependency_example.Controllers
             this.IProduct = IProduct;
         }
 
+        // GET ALL
+
         [HttpGet]
         public async Task<GenericResponse> GetAll()
         {
@@ -36,6 +38,7 @@ namespace Inyection_dependency_example.Controllers
             return response;
         }
 
+        // GET BY ID
         [HttpGet("GetById")]
         public async Task<GenericResponse> GetById(int IdProduct)
         {
@@ -54,43 +57,78 @@ namespace Inyection_dependency_example.Controllers
             return response;
         }
 
-        [HttpPost]
-        public async Task<GenericResponse> Insert([FromBody] ProductDTO ProductDTO)
-        {
-            response = new GenericResponse() { Request = ProductDTO };
 
+        // LIST (RAW LIST)
+
+        [HttpGet("List")]
+        public async Task<IActionResult> GetProductList()
+        {
             try
             {
-                response.Response = await IProduct.Insert(ProductDTO);
+                var products = await IProduct.GetProduct();
+                return Ok(products);
             }
             catch (Exception ex)
             {
-                response.Message = ex.Message;
-                response.HttpStatus = HttpStatusCode.InternalServerError;
+                return StatusCode(500, new
+                {
+                    message = "Error al obtener la lista de productos",
+                    error = ex.Message
+                });
             }
-
-            return response;
         }
 
-        [HttpPut]
-        public async Task<GenericResponse> Update([FromQuery] int IdProduct, [FromBody] ProductDTO ProductDTO)
+        // POST - AGREGAR PRODUCTO==
+        [HttpPost("Create")]
+        public async Task<IActionResult> CreateProduct([FromBody] ProductDTO product)
         {
-            response = new GenericResponse() { Request = ProductDTO };
+            if (product == null)
+                return BadRequest("El producto no puede ser nul");
 
             try
             {
-                response.Response = await IProduct.Update(IdProduct, ProductDTO);
+                var result = await IProduct.Insert(product);
+                return Ok(new
+                {
+                    message = "Producto creado exitosamente!",
+                    product = result
+                });
             }
             catch (Exception ex)
             {
-                response.Message = ex.Message;
-                response.HttpStatus = HttpStatusCode.InternalServerError;
+                return StatusCode(500, new
+                {
+                    message = "Error al insertar producto",
+                    error = ex.Message
+                });
             }
-
-            return response;
         }
 
 
+        // PUT
+        [HttpPut("Update/{IdProduct}")]
+        public async Task<IActionResult> UpdateProduct(int IdProduct, [FromBody] ProductDTO product)
+        {
+            if (product == null)
+                return BadRequest("El producto no puede ser nulo.");
+
+            try
+            {
+                var result = await IProduct.Update(IdProduct, product);
+                return Ok(new
+                {
+                    message = "Producto actualizado exitosamente",
+                    product = result
+                });
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, new
+                {
+                    message = "Error al actualizar producto",
+                    error = ex.Message
+                });
+            }
+        }
     }
 }
-

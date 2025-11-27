@@ -21,6 +21,10 @@ namespace Inyection_dependency_example.Implementation
 
         public DbSet<BookShelfDB> BookShelfDB { get; set; }
 
+        public DbSet<OrderDB> Orders { get; set; }
+
+        public DbSet<OrderItemDB> OrderItems { get; set; }
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

@@ -1,6 +1,7 @@
 using Inyection_dependency_example.Implementation;
 using Inyection_dependency_example.Interface;
 using Inyection_dependency_example.Utils;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Scalar.AspNetCore;
 
@@ -24,14 +25,19 @@ builder.Services.AddScoped<IBookShelfAPI, BookShelfAPI>();
 builder.Services.AddScoped<IBookStore, BookStoreAPI>();
 builder.Services.AddScoped<IProduct, ProductAPI>();
 builder.Services.AddScoped<ICategoryAPI, CategoryAPI>();
+builder.Services.AddScoped<IOrder, OrderAPI>();
 
+
+builder.Services.AddIdentity<IdentityUser, IdentityRole>()
+    .AddEntityFrameworkStores<ApplicationDbContext>()
+    .AddDefaultTokenProviders();
+
+builder.Services.AddAuthentication();
 
 builder.Services.AddControllers();
 // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 builder.Services.AddOpenApi();
-
 builder.Services.AddEndpointsApiExplorer();
-
 builder.Services.AddSwaggerGen();
 //builder.MapScalar();
 
@@ -55,6 +61,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

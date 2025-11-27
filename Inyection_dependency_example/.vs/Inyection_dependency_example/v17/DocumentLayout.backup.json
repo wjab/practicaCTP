@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\practicactp\\inyection_dependency_example\\inyection_dependency_example\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\Migrations\\20251127214918_AddOrdersTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Inyection_dependency_example\\Migrations\\20251127214918_AddOrdersTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\practicactp\\inyection_dependency_example\\inyection_dependency_example\\db\\categorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\db\\categorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\practicactp\\inyection_dependency_example\\inyection_dependency_example\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\practicactp\\inyection_dependency_example\\inyection_dependency_example\\db\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\db\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\practicactp\\inyection_dependency_example\\inyection_dependency_example\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 181,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,39 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryDB.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\CategoryDB.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\DB\\CategoryDB.cs",
-              "ToolTip": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\CategoryDB.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\DB\\CategoryDB.cs",
+              "DocumentIndex": 0,
+              "Title": "20251127214918_AddOrdersTables.cs",
+              "DocumentMoniker": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\Migrations\\20251127214918_AddOrdersTables.cs",
+              "RelativeDocumentMoniker": "Inyection_dependency_example\\Migrations\\20251127214918_AddOrdersTables.cs",
+              "ToolTip": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\Migrations\\20251127214918_AddOrdersTables.cs",
+              "RelativeToolTip": "Inyection_dependency_example\\Migrations\\20251127214918_AddOrdersTables.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T14:59:29.651Z"
+              "WhenOpened": "2025-11-27T21:49:18.465Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductDB.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\ProductDB.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\DB\\ProductDB.cs",
-              "ToolTip": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\ProductDB.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\DB\\ProductDB.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Inyection_dependency_example\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Inyection_dependency_example\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAA5wHEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T22:06:39.41Z"
+              "WhenOpened": "2025-11-27T21:43:18.769Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DTOs\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\DTOs\\ProductDTO.cs",
-              "ToolTip": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DTOs\\ProductDTO.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\DTOs\\ProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Inyection_dependency_example\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Inyection_dependency_example\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T22:01:23.299Z",
+              "WhenOpened": "2025-11-27T21:43:13.193Z",
               "EditorCaption": ""
             }
           ]

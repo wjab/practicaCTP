@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\practicactp\\inyection_dependency_example\\inyection_dependency_example\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\practicactp\\inyection_dependency_example\\inyection_dependency_example\\db\\categorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\db\\categorydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|c:\\src\\jowasoft\\practicactp\\inyection_dependency_example\\inyection_dependency_example\\db\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0C4440-9D04-413D-9BB7-18758DFBC95A}|Inyection_dependency_example\\Inyection_dependency_example.csproj|solutionrelative:inyection_dependency_example\\db\\productdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,48 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 181,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoryDB.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\CategoryDB.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\DB\\CategoryDB.cs",
-              "ToolTip": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\CategoryDB.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\DB\\CategoryDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-12T14:59:29.651Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductDB.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\ProductDB.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\DB\\ProductDB.cs",
-              "ToolTip": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DB\\ProductDB.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\DB\\ProductDB.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T22:06:39.41Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductDTO.cs",
-              "DocumentMoniker": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DTOs\\ProductDTO.cs",
-              "RelativeDocumentMoniker": "Inyection_dependency_example\\DTOs\\ProductDTO.cs",
-              "ToolTip": "C:\\src\\jowasoft\\practicaCTP\\Inyection_dependency_example\\Inyection_dependency_example\\DTOs\\ProductDTO.cs",
-              "RelativeToolTip": "Inyection_dependency_example\\DTOs\\ProductDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T22:01:23.299Z",
-              "EditorCaption": ""
             }
           ]
         }

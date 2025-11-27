@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "Inyection_dependency_example.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/auth/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Inyection_dependency_example.Models.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Inyection_dependency_example.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Inyection_dependency_example.Models.UserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Inyection_dependency_example.Controllers.BookController",
     "Method": "Delete",
     "RelativePath": "api/Book",
@@ -366,6 +398,22 @@
     ]
   },
   {
+    "ContainingType": "Inyection_dependency_example.Controllers.OrderController",
+    "Method": "CreateOrder",
+    "RelativePath": "api/Order/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "order",
+        "Type": "Inyection_dependency_example.DTOs.OrderDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Inyection_dependency_example.Controllers.PersonController",
     "Method": "Get",
     "RelativePath": "api/Person",
@@ -485,63 +533,6 @@
   },
   {
     "ContainingType": "Inyection_dependency_example.Controllers.ProductController",
-    "Method": "Insert",
-    "RelativePath": "api/Product",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "ProductDTO",
-        "Type": "Inyection_dependency_example.DTOs.ProductDTO",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "Inyection_dependency_example.Entidades.GenericResponse",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Inyection_dependency_example.Controllers.ProductController",
-    "Method": "Update",
-    "RelativePath": "api/Product",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "IdProduct",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "ProductDTO",
-        "Type": "Inyection_dependency_example.DTOs.ProductDTO",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "Inyection_dependency_example.Entidades.GenericResponse",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "Inyection_dependency_example.Controllers.ProductController",
     "Method": "GetById",
     "RelativePath": "api/Product/GetById",
     "HttpMethod": "GET",
@@ -565,6 +556,16 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "Inyection_dependency_example.Controllers.ProductController",
+    "Method": "GetProductList",
+    "RelativePath": "api/Product/List",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "Inyection_dependency_example.Controllers.WeatherForecastController",

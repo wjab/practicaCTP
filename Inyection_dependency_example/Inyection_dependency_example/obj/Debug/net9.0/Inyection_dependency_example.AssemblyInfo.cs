@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inyection_dependency_example")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1829668fd56412b1f53dbc2f30d4a07bccc5b04d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+066b6b431ecae91ea94693951c7b4ba3cce78d30")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inyection_dependency_example")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inyection_dependency_example")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
